@@ -1,0 +1,252 @@
+SET UTF-8
+LANG bn
+FLAG long
+
+PFX AA Y 1
+PFX AA 0 অ
+
+PFX AB Y 1
+PFX AB 0 অঘা
+
+PFX AC Y 1
+PFX AD 0 অজ
+
+PFX AD Y 1
+PFX AD 0 অনা
+
+PFX AE Y 1
+PFX AE 0 আড়
+
+PFX AF Y 1
+PFX AF 0 আন
+
+PFX AG Y 1
+PFX AG 0 আব
+
+PFX AH Y 1
+PFX AH 0 ইতি
+
+PFX AI Y 1
+PFX AI 0 কদ
+
+PFX AJ Y 1
+PFX AJ 0 কু
+
+PFX AK Y 1 
+PFX AK 0 নি
+
+PFX AL Y 1
+PFX AL 0 পাতি
+
+PFX AM Y 1
+PFX AM 0 বি
+
+PFX AN Y 1
+PFX AN 0 ভর
+
+PFX AO Y 1
+PFX AO 0 রাম
+
+PFX AP Y 1
+PFX AP 0 স
+
+PFX AQ Y 1
+PFX AQ 0 সা
+
+PFX AR Y 1
+PFX AR 0 সু
+
+PFX AS Y 1
+PFX AS 0 হা
+
+PFX AT Y 1
+PFX AT 0 প্র
+
+PFX AU Y 1
+PFX AU 0 পরা
+
+PFX AV Y 1
+PFX AV 0 অপ
+
+PFX AW Y 1
+PFX AW 1 নি
+
+PFX AZ Y 1
+PFX AZ 0 অব
+
+PFX BA Y 1
+PFX BA 0 বি
+
+PFX BB Y 1
+PFX BB 0 অধি 
+
+PFX BC Y 1
+PFX BC 0 পরি
+
+PFX BD Y 1
+PFX BD 0 প্রতি
+
+PFX BE Y 1
+PFX BE 0 উপ
+
+PFX BF Y 1
+PFX BF 0 অভি
+
+PFX BG Y 1
+PFX BG 0 অতি
+
+PFX BH Y 1
+PFX BH 0 আ
+
+PFX BI Y 1
+PFX BI 0 বে
+
+PFX BJ Y 1
+PFX BJ 0 বদ
+
+PFX BK Y 1
+PFX BK 0 ব
+
+PFX BL Y 1
+PFX BL 0 খাস
+
+PFX BM Y 1
+PFX BM 0 গর
+
+PFX BN Y 1
+PFX BN 0 ফুল
+
+PFX BO Y 1
+PFX BO 0 হাফ
+
+PFX BP Y 1
+PFX BP 0 হেড
+
+PFX BQ Y 1
+PFX BQ 0 সাব
+
+SFX CA Y 83
+SFX CA 0 ে
+SFX CA 0 েন
+SFX CA 0 িস
+SFX CA 0 ি
+SFX CA 0 িতেছে
+SFX CA 0 েছ
+SFX CA 0 িতেছেন
+SFX CA 0 েছন
+SFX CA 0 ছ
+SFX CA 0 িতেছিস
+SFX CA 0 িছ
+SFX CA 0 িতেছি
+SFX CA 0 িইয়াছে
+SFX CA 0 েছে
+SFX CA 0 িইয়াছেন
+SFX CA 0 েছেন
+SFX CA 0 িয়াছ
+SFX CA 0 িয়াছিস
+SFX CA 0 েছিস
+SFX CA 0 িয়াছি
+SFX CA 0 েছি
+SFX CA 0 ুক
+SFX CA 0 ুন
+SFX CA 0 ো
+SFX CA 0 িল
+SFX CA 0 ল
+SFX CA 0 িলেন
+SFX CA 0 িলে
+SFX CA 0 লে
+SFX CA 0 িলি
+SFX CA 0 িলাম
+SFX CA 0 লাম
+SFX CA 0 লুম
+SFX CA 0 িত
+SFX CA 0 তে
+SFX CA 0 তো
+SFX CA 0 িতেন
+SFX CA 0 তেন
+SFX CA 0 িতে
+SFX CA 0 তে
+SFX CA 0 িতিস
+SFX CA 0 তিস
+SFX CA 0 িতাম
+SFX CA 0 তাম
+SFX CA 0 িতেছিলো
+SFX CA 0 ছিল
+SFX CA 0 ছিলেন
+SFX CA 0 িতেছিলে
+SFX CA 0 ছিলে
+SFX CA 0 িতেছিলি
+SFX CA 0 িতেছিলাম
+SFX CA 0 ছিলাম
+SFX CA 0 িয়াছিলোlaravel read and write text file
+SFX CA 0 েছিল
+SFX CA 0 িইয়াছিলেন
+SFX CA 0 েছিলেন
+SFX CA 0 েছিলে
+SFX CA 0 েছিলি
+SFX CA 0 িয়াছিলাম
+SFX CA 0 েছিলুম
+SFX CA 0 িবে
+SFX CA 0 বে
+SFX CA 0 িবেন
+SFX CA 0 িবি
+SFX CA 0 বো
+SFX CA 0 িতে থাকিবে
+SFX CA 0 তে থাকিবো
+SFX CA 0 িতে থাকিবেন
+SFX CA 0 তে থাকবেন
+SFX CA 0 িতে থাকবে
+SFX CA 0 িতে থাকিবি
+SFX CA 0 িতে থাকব
+SFX CA 0 িয়া থাকবে
+SFX CA 0 ে থাকবে
+SFX CA 0 িয়া থাকবে
+SFX CA 0 িয়া থাকিবি
+SFX CA 0 িবে
+SFX CA 0 বে
+SFX CA 0 িবেন
+SFX CA 0 বেন
+SFX CA 0 িও
+SFX CA 0 ও
+SFX CA 0 িস
+
+SFX CB Y 4
+SFX CB 0 টা
+SFX CB 0 টি
+SFX CB 0 খানা
+SFX CB 0 খানি
+
+SFX CC Y 2
+SFX CC 0 রা
+SFX CC 0 েরা
+
+SFX CD Y 2
+SFX CD 0 গুলো
+SFX CD 0 গুলি
+
+SFX CE Y 1
+SFX CE 0 গন
+
+SFX CF Y 1
+SFX CF 0 গুচ্ছ
+
+SFX CG Y 1
+SFX CG 0 মণ্ডল
+
+SFX CH Y 1
+SFX CH 0 মালা
+
+SFX CI Y 1
+SFX CI 0 রাশি
+
+SFX CJ Y 1
+SFX CJ 0 শ্রেণি
+
+SFX CK Y 1
+SFX CK 0 সমূহ
+
+SFX CL Y 1
+SFX CL 0 বৃন্দ
+
+SFX CM Y 1                                     
+SFX CM 0 কে
