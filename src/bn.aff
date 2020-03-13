@@ -125,6 +125,15 @@ PFX BP 0 হেড
 PFX BQ Y 1
 PFX BQ 0 সাব
 
+PFX BR Y 1
+PFX BR 0 অকাল
+
+PFX BS Y 1
+PFX BS 0 অক্ষত
+
+PFX BT Y 1
+PFX BT 0 অনু
+
 SFX CA Y 83
 SFX CA 0 ে
 SFX CA 0 েন
@@ -178,7 +187,7 @@ SFX CA 0 ছিলে
 SFX CA 0 িতেছিলি
 SFX CA 0 িতেছিলাম
 SFX CA 0 ছিলাম
-SFX CA 0 িয়াছিলোlaravel read and write text file
+SFX CA 0 িয়াছিলো
 SFX CA 0 েছিল
 SFX CA 0 িইয়াছিলেন
 SFX CA 0 েছিলেন
@@ -250,3 +259,22 @@ SFX CL 0 বৃন্দ
 
 SFX CM Y 1                                     
 SFX CM 0 কে
+
+SFX CN Y 1                                     
+SFX CN 0 যোগ্য
+
+SFX CO Y 1                                     
+SFX CO 0 ীয়
+
+SFX CP Y 1                                     
+SFX CP 0 কর 
+
+SFX CQ Y 1                                     
+SFX CQ 0 ে 
+
+SFX CR Y 1                                     
+SFX CR 0 ের
+
+SFX CS Y 1                                     
+SFX CS 0  সহ  
+
