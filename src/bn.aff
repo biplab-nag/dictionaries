@@ -134,6 +134,10 @@ PFX BS 0 অক্ষত
 PFX BT Y 1
 PFX BT 0 অনু
 
+REP BS 2
+REP ি ী
+REP ী ি 
+
 SFX CA Y 83
 SFX CA 0 ে
 SFX CA 0 েন
