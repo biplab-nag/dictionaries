@@ -135,8 +135,8 @@ PFX BT Y 1
 PFX BT 0 অনু
 
 REP BS 2
-REP ি ী
-REP ী ি 
+REP ি  ী 
+REP ী  ি 
 
 SFX CA Y 83
 SFX CA 0 ে
@@ -282,3 +282,5 @@ SFX CR 0 ের
 SFX CS Y 1                                     
 SFX CS 0  সহ  
 
+SFX CT Y 1                                     
+SFX CT 0 ী
